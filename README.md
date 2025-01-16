@@ -1,4 +1,3 @@
-# Java II Assignments
- A place to store my Java II assignments
+# Module 0 High Scores assignment
 
 This is a practice commit
